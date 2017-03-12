@@ -1,4 +1,4 @@
-# Space-Time Analysis on Ebola in Sierra Leone
+# Space-Time Analysis of Ebola in Sierra Leone
 
 
 
