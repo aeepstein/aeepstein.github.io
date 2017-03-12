@@ -1,4 +1,4 @@
 # Space-Time Analysis on Ebola in Sierra Leone
-![Figure 1](/Fig1.png)
-![Figure 2](/Fig2.png)
-![Figure 3](/Fig3.png)
+<img alt="Figure 1" src="/Fig1.png" width=600px />
+<img alt="Figure 2" src="/Fig2.png" width=600px />
+<img alt="Figure 3" src="/Fig3.png" width=600px />
