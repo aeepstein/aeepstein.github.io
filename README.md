@@ -1,2 +1,2 @@
 # epstein
-![Adrienne](/espstein/epstein_photo.jpg)
+![Adrienne](/epstein_photo.jpg)
