@@ -1,2 +1,2 @@
 # epstein
-![Image](https://aeepstein.github.io/epstein/epstein_photo.jpg)
+![Adrienne](/epstein_photo.jpg)
